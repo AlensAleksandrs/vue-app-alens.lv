@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M50 30C61.0457 30 70 38.9543 70 50C70 61.0457 61.0457 70 50 70C38.9543 70 30 61.0457 30 50C30 38.9543 38.9543 30 50 30ZM49.5 35C41.4919 35 35 41.4919 35 49.5C35 57.5081 41.4919 64 49.5 64V35Z" fill="currentColor"/>
+<rect x="48" y="13" width="4" height="14" rx="2" fill="currentColor"/>
+<rect x="48" y="73" width="4" height="14" rx="2" fill="currentColor"/>
+<rect x="73" y="52" width="4" height="14" rx="2" transform="rotate(-90 73 52)" fill="currentColor"/>
+<rect x="13" y="52" width="4" height="14" rx="2" transform="rotate(-90 13 52)" fill="currentColor"/>
+<rect x="74.7488" y="22.4229" width="4" height="14" rx="2" transform="rotate(45 74.7488 22.4229)" fill="currentColor"/>
+<rect x="32.3223" y="64.8492" width="4" height="14" rx="2" transform="rotate(45 32.3223 64.8492)" fill="currentColor"/>
+<rect x="64.8491" y="67.6777" width="4" height="14" rx="2" transform="rotate(-45 64.8491 67.6777)" fill="currentColor"/>
+<rect x="22.4229" y="25.2512" width="4" height="14" rx="2" transform="rotate(-45 22.4229 25.2512)" fill="currentColor"/>
+</svg>

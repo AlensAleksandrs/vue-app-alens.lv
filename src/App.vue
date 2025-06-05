@@ -1,8 +1,11 @@
-<script setup></script>
+<script setup>
+import AppFooter from '@/components/AppFooter.vue'
+</script>
 
 <template>
-  <h1>src/App.vue has been loaded successfully</h1>
-  <RouterView />
+  <div class="min-h-screen min-w-screen flex items-center justify-center">
+    <RouterView />
+  </div>
 </template>
 
 <style scoped></style>

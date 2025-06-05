@@ -1,1 +1,11 @@
 @import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-site: "Josefin Sans", sans-serif;
+  --color-d-bg: #0F0F0F;
+  --color-d-bg-d: #111111;
+  --color-bg: #F1F3F4;
+  --color-bg-w: #FFFFFF;
+}
